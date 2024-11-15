@@ -2,7 +2,7 @@
 
 > SeSAC 영등포 6기 2차 프로젝트(240821~240912)
 
-![lieblings](https://github.com/user-attachments/assets/639bb375-fabd-4d68-95c5-e6cbe25c91f9)
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FTeh4y%2FbtsJFF4zpTI%2FmYVHIP8JFVooSpqfuEDGqK%2Fimg.png" width="80%" />
 
 🔗 배포 서버 : http://43.201.85.98:8080/
 
