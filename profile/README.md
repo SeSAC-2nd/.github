@@ -20,8 +20,7 @@
 6. [역할 분담](#역할-분담)
 7. [프로젝트 설계](#프로젝트-설계)
 8. [구현 기능](#구현-기능)
-9. [향후 계획](#향후-계획)
-10. [소감](#소감)
+9. [소감](#소감)
 
 <br/>
 
@@ -282,9 +281,6 @@ https://github.com/user-attachments/assets/b064aba9-1fbd-4d25-84c5-e873dc46ae76
 
 https://github.com/user-attachments/assets/40b278ab-50b3-4068-9494-e247d26ad431
 
-<br/>
-
-## 향후 계획
 <br/>
 
 ## 소감
